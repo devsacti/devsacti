@@ -1,6 +1,6 @@
 ## 👉 I'm interested in
 ▪️ Application development
-###### related repos : CRM, JAVA-APP, webservice, Algorithms_Query
+###### related repos : CRM, JAVA-APP, WEB-APP, Algorithms_Query
 ▪️ Data Mining
 ###### related repos : DataAnalysis 
 ▪️ ML 
