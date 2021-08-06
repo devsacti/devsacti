@@ -2,7 +2,7 @@
 ▪️ Application development
 ###### related repos : CRM, JAVA-APP, WEB-APP, Algorithms_Query
 ▪️ Data Mining
-###### related repos : DataAnalysis 
+###### related repos : DataMining
 ▪️ ML 
 ###### related repos : MachineLearning
 
