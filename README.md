@@ -1,4 +1,4 @@
-## 🔴 I'm interested in
+🔴 I'm interested in
 ▪️ Application development
 ###### related repos : CRM, JAVA-APP, PYTHON-APP
 ▪️ Data Mining
@@ -6,7 +6,7 @@
 ▪️ ML 
 ###### related repos : MachineLearning
 
-## 🔴 I want to contribute in
+🔴 I want to contribute in
 ▪️ Management Science which is related with
 ## CRM or Everything!
 
