@@ -1,6 +1,8 @@
 ## ❗ I'm interested in
 ▪️ Application development 👉 CRM, JAVA-APP, WEB-APP, Algorithms_Query
+
 ▪️ Data Mining 👉 DataMining
+
 ▪️ ML 👉 MachineLearning
 
 ## ❗ I want to contribute in
