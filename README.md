@@ -3,7 +3,7 @@
 
 ▪️ Data Mining 👉 DataMining
 
-▪️ ML 👉 MachineLearning
+▪️ CLOUD utilizations and related conceptions 👉 Cloud-Utilizations
 
 ## ❗ I want to contribute in
 ▪️ Management Science by CRM or Everything!
