@@ -1,9 +1,9 @@
 ## ❗ I'm interested in
 ▪️ Application development 👉 CRM, JAVA-APP, WEB-APP, Algorithms_Query
 
-▪️ Data Mining 👉 DataMining
-
 ▪️ CLOUD utilizations and related conceptions 👉 Cloud-Utilizations
+
+▪️ Data Mining 👉 DataMining
 
 ## ❗ I want to contribute in
 ▪️ Management Science by CRM or Everything!
