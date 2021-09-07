@@ -1,5 +1,5 @@
 ## ❗ I'm interested in
-▪️ Application development 👉 CRM, JAVA-APP, WEB-APP, Algorithms_Query
+▪️ Application development 👉 Algorithms_Query, WEB-APP 
 
 ▪️ CLOUD utilizations and related conceptions 👉 Cloud-Utilizations
 
