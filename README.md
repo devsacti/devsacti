@@ -3,7 +3,7 @@
 
 ▪️ CLOUD utilizations and related conceptions 👉 Cloud-Utilizations
 
-▪️ Data Mining 👉 DataMining
+▪️ Data Mining and analysis platform 👉 DataMining
 
 ## ❗ I want to contribute in
 ▪️ develop data analysis platform that canbe utilzied to market
