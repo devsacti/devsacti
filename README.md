@@ -1,5 +1,5 @@
 ## ❗ I'm interested in
-▪️ Application development 👉 Algorithms, Query, JAVA-APP
+▪️ Application development 👉 JAVA-APP, Query, Algorithms
 
 ## ❗ homework
-1. refactoring java-app and algorithm and query
+1. organize WEB-APP
